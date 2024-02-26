@@ -1,6 +1,6 @@
-# react-quiz 📝 ❓
+# react-quiz 📝❓
 
-Developed by **`Grace Chen Abudi`** 👩🏽‍💻
+## Developed by **`Grace Chen Abudi`** 👩🏽‍💻
 
 ## 📣 Overview:
 
@@ -11,7 +11,7 @@ Developed by **`Grace Chen Abudi`** 👩🏽‍💻
 
 ## 🔎 Intro:
 
-This is a practice project in React, showcasing a quiz app.
+This is a practice frontend project developed in React, showcasing a quiz app.
 
 ## 🧰 🛠️ Tech Stack & Techniques:
 
