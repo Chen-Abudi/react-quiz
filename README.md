@@ -22,8 +22,11 @@ This is a practice frontend project developed in React, showcasing a quiz app.
 
 ## 🛠️ Techniques:
 
+- **`React Hooks`**: **useState**, **useEffect**, **useCallback**
 - Deriving Values
 - Computed Values
+- **`Web APIs`**: **setTimeout()**, **clearTimeout()**, **setInterval()**, **clearInterval()**
+- Progress Timer
 
 ---
 
