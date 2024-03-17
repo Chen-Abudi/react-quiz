@@ -13,12 +13,17 @@
 
 This is a practice frontend project developed in React, showcasing a quiz app.
 
-## 🧰 🛠️ Tech Stack & Techniques:
+## 🧰 Tech Stack:
 
 - React
 - JavaScript
 - CSS3
 - Vite
+
+## 🛠️ Techniques:
+
+- Deriving Values
+- Computed Values
 
 ---
 
