@@ -11,7 +11,7 @@
 
 ## 🔎 Intro:
 
-This is a practice frontend project developed in React, showcasing a quiz app.
+This is a practice frontend project developed in React, showcasing a quiz with results at the completion.
 
 ## 🧰 Tech Stack:
 
