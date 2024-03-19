@@ -1,7 +1,10 @@
 import { useState } from "react";
-import QuestionTimer from "./QuestionTimer.jsx";
-import Answers from "./Answers.jsx";
-import QUESTIONS from "../questions.js";
+
+import "./Questions.css";
+
+import QuestionTimer from "../QuestionTimer.jsx";
+import Answers from "../Answers/Answers.jsx";
+import QUESTIONS from "../../questions.js";
 
 function Questions({ questionIndex, onSelectAnswer, onSkipAnswer }) {
   const [answer, setAnswer] = useState({

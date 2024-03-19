@@ -27,6 +27,7 @@ This is a practice frontend project developed in React, showcasing a quiz with r
 - Computed Values
 - **`Web APIs`**: **setTimeout()**, **clearTimeout()**, **setInterval()**, **clearInterval()**
 - Progress Timer
+- Responsive Layout
 
 ---
 

@@ -1,4 +1,5 @@
-import quizLogo from "../assets/quiz-logo.png";
+import "./Header.css";
+import quizLogo from "../../assets/quiz-logo.png";
 
 function Header() {
   return (
