@@ -335,3 +335,25 @@ header h1 {
     transform: translateY(0);
   }
 }
+
+@media only screen and (max-width: 520px) {
+  #summary h2 {
+    font-size: 2rem;
+  }
+
+  #summary-stats {
+    width: 12rem;
+    gap: 1rem;
+    margin: 0 auto;
+    padding-top: 1rem;
+  }
+
+  #summary-stats .number {
+    font-size: 2rem;
+  }
+
+  #summary-stats .text {
+    font-size: 0.6rem;
+    margin: 0;
+  }
+}
