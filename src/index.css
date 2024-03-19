@@ -30,7 +30,7 @@ body {
   background-position: center;
 }
 
-header {
+/* header {
   margin: 2rem 0;
   text-align: center;
 }
@@ -52,7 +52,7 @@ header h1 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
 
 #last-try {
   max-width: 40rem;

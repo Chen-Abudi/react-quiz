@@ -1,4 +1,4 @@
-import Header from "./components/Header.jsx";
+import Header from "./components/Header/Header.jsx";
 import Quiz from "./components/Quiz.jsx";
 
 function App() {
