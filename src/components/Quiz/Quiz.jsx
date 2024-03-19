@@ -1,5 +1,4 @@
 import { useState, useCallback } from "react";
-
 import "./Quiz.css";
 
 import QUESTIONS from "../../questions.js";

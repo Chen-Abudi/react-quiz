@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./Questions.css";
 
 import QuestionTimer from "../QuestionTimer.jsx";
-import Answers from "../Answers.jsx";
+import Answers from "../Answers/Answers.jsx";
 import QUESTIONS from "../../questions.js";
 
 function Questions({ questionIndex, onSelectAnswer, onSkipAnswer }) {
