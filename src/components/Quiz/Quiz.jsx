@@ -3,7 +3,7 @@ import "./Quiz.css";
 
 import QUESTIONS from "../../questions.js";
 import Questions from "../Questions/Questions.jsx";
-import Summary from "../Summary.jsx";
+import Summary from "../Summary/Summary.jsx";
 
 function Quiz() {
   const [userAnswers, setUserAnswers] = useState([]);
