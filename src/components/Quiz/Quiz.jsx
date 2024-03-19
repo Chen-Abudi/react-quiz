@@ -1,8 +1,10 @@
 import { useState, useCallback } from "react";
 
-import QUESTIONS from "../questions.js";
-import Questions from "./Questions.jsx";
-import Summary from "./Summary.jsx";
+import "./Quiz.css";
+
+import QUESTIONS from "../../questions.js";
+import Questions from "../Questions.jsx";
+import Summary from "../Summary.jsx";
 
 function Quiz() {
   const [userAnswers, setUserAnswers] = useState([]);
